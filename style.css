@@ -1,0 +1,42 @@
+body{
+}
+#container{
+    border:2px solid black;
+    margin-top: 30px;
+    justify-self: center;
+    padding: 20px;
+}
+#inp{
+    height: 30px;
+    width:450px;
+}
+#inp:hover{
+    height:32px;
+    width:452px;
+}
+button{
+    border-radius:7px;
+    height: 25px;
+    font-weight: bolder;
+}
+button:hover{
+    height:27px;
+    cursor:pointer;
+}
+.adding-content{
+    border:2px solid black;
+    border-radius:7px;
+    margin:20px;
+    padding-left: 20px;
+    height:40px;
+    font-size: 30px;
+}
+.adding-content:hover{
+    height:42px;
+    margin:18px;
+    box-shadow: 2px 4px 5px;
+    background-color: rgb(25, 100, 138)
+}
+#radio:hover{
+    cursor:pointer;
+}
